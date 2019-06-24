@@ -6,6 +6,8 @@ Web app that shows a list of posts, based on the course [Modern React with Redux
 
 - React
 - React Router
+- Redux
+- Semantic UI React
 - HTML
 - CSS
 - JavaScript

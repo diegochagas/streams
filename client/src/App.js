@@ -20,7 +20,7 @@ function App() {
             <div className="App">
                 <BrowserRouter>
                     <Header/>
-                    <div>
+                    <div className="App-body">
                         <Route path="/" exact component={StreamList}/>
                         <Route path="/streams/new" exact component={StreamCreate} />
                         <Route path="/streams/edit" exact component={StreamEdit} />
